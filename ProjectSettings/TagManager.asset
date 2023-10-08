@@ -13,6 +13,8 @@ TagManager:
   - UI
   - GameBounds
   - Player
+  - Outlined
+  - Fruit
   - 
   - 
   - 
@@ -34,9 +36,7 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - Test Layer
   m_SortingLayers:
   - name: Default
     uniqueID: 0
